@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/manav_lukar07" target="blank"><img src="https://img.shields.io/twitter/follow/manav_lukar07?logo=twitter&style=for-the-badge" alt="manav_lukar07" /></a> </p>
 
-- 🌱 I’m currently learning **Flask and Android Devlopment**
+- 🌱 I’m currently learning **React Native and Android Devlopment**
 
-- 💬 Ask me about **Android and ReactJS**
+- 💬 Ask me about **Android and React Native**
 
 - 📫 How to reach me **manavlukar2@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Dell/Downloads/Manav_Lukar_resume%20(2).pdf](file:///C:/Users/Dell/Downloads/Manav_Lukar_resume%20(2).pdf)
 
 - ⚡ Fun fact **I am a coder and I am not a bookworm LOL :)**
 
