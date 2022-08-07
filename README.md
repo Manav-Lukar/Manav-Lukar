@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manavlukar2@gmail.com**
 
-- ⚡ Fun fact **I am a coder and I am not a bookworm LOL :)**
+- ⚡ Fun fact **Yes I am a programmer and i won't fix your computer:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
