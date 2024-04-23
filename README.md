@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/manav_lukar07" target="blank"><img src="https://img.shields.io/twitter/follow/manav_lukar07?logo=twitter&style=for-the-badge" alt="manav_lukar07" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **Android Development**<br><br>💬 Ask me about **Android and Flutter**<br><br>📫 How to reach me **manavlukar2@gmail.com**<br><br>⚡ Fun fact **Yes I am a programmer and i won't fix your computer:)**
+🌱 I’m currently learning **Flutter Development**<br><br>💬 Ask me about **Android and Flutter**<br><br>📫 How to reach me **manavlukar2@gmail.com**<br><br>⚡ Fun fact **Yes I am a programmer and i won't fix your computer:)**
 
 
 ## 🌐 Socials:
